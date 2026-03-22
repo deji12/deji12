@@ -28,7 +28,7 @@ I’m a backend engineer with **4+ years of experience** building scalable web a
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,flask,postgres,mongodb,redis,rabbitmq" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,postman,docker,linux,nginx,celery,php" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,postman,docker,linux,nginx,php" />
 </p>
 
 <hr>
