@@ -42,9 +42,3 @@ I’m a backend engineer with **4+ years of experience** building scalable web a
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=deji12&theme=transparent&border_radius=10" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=deji12&theme=transparent&layout=donut&langs_count=8&border_radius=10" />
 </div>
-
----
-
-## ⚡ Fun Fact
-
-I build systems that don’t just work — they scale 🚀
