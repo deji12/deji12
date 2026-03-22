@@ -4,11 +4,6 @@
 
 I’m a backend engineer with **4+ years of experience** building scalable web applications and APIs using Django and modern backend technologies.
 
-- I design and deploy **production-ready backend systems**
-- Experienced in **scalable architectures, async processing & real-time systems**
-- Currently learning **System Design & Distributed Systems**
-- I run a YouTube channel helping developers learn backend engineering (**500K+ views**)
-
 ---
 
 ## 🌐 Connect With Me
@@ -32,8 +27,8 @@ I’m a backend engineer with **4+ years of experience** building scalable web a
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,djangorestframework,flask,postgres,mongodb,redis,rabbitmq" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,postman,docker,linux,nginx,celery,cloudinary" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,postgres,mongodb,redis,rabbitmq" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,postman,docker,linux,nginx,celery,php" />
 </p>
 
 <hr>
